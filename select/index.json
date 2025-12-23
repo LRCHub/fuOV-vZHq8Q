@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "好きだ",
+  "base_artist": "YOASOBI",
+  "createdAt": "2025-12-23T05:15:14.636959Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "好きだ",
+      "artist": "YOASOBI",
+      "has_synced": true,
+      "path": "select/01_好きだ_YOASOBI.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "好きだ",
+      "artist": "YOASOBI",
+      "has_synced": true,
+      "path": "select/02_好きだ_YOASOBI.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "好きだ (喜欢你)",
+      "artist": "YOASOBI",
+      "has_synced": true,
+      "path": "select/03_好きだ_(喜欢你)_YOASOBI.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "好きだ。 feat.えみい",
+      "artist": "kobasolo",
+      "has_synced": true,
+      "path": "select/04_好きだ。_feat.えみい_kobasolo.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "好きだ",
+      "artist": "YOASOBI",
+      "has_synced": true,
+      "path": "select/05_好きだ_YOASOBI.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "好きだ。 feat. えみい",
+      "artist": "kobasolo",
+      "has_synced": false,
+      "path": "select/06_好きだ。_feat._えみい_kobasolo.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "好きだ。",
+      "artist": "Little Glee Monster",
+      "has_synced": true,
+      "path": "select/07_好きだ。_Little_Glee_Monster.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "好きだ。 -Studio Live ver.-",
+      "artist": "Little Glee Monster",
+      "has_synced": true,
+      "path": "select/08_好きだ。_-Studio_Live_ver.-_Little_Glee_Monster.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "好きだ。remake ver.",
+      "artist": "Little Glee Monster",
+      "has_synced": true,
+      "path": "select/09_好きだ。remake_ver._Little_Glee_Monster.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "好きだ!!!",
+      "artist": "≠ME",
+      "has_synced": true,
+      "path": "select/10_好きだ!!!_≠ME.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "好きだ。",
+      "artist": "Little Glee Monster",
+      "has_synced": true,
+      "path": "select/11_好きだ。_Little_Glee_Monster.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "好きだ。(GRADATI∞N Ver.)",
+      "artist": "Little Glee Monster",
+      "has_synced": true,
+      "path": "select/12_好きだ。(GRADATI∞N_Ver.)_Little_Glee_Monster.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "好きだ (Bye)",
+      "artist": "치즈",
+      "has_synced": false,
+      "path": "select/13_好きだ_(Bye)_치즈.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "好きだ",
+      "artist": "YOASOBI (ヨアソビ)",
+      "has_synced": true,
+      "path": "select/14_好きだ_YOASOBI_(ヨアソビ).lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "好きだ (喜欢你)",
+      "artist": "YOASOBI (ヨアソビ)",
+      "has_synced": true,
+      "path": "select/15_好きだ_(喜欢你)_YOASOBI_(ヨアソビ).lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "好きだ",
+      "artist": "YOASOBI",
+      "has_synced": false,
+      "path": "select/pl_01_好きだ_YOASOBI.txt"
+    }
+  ]
+}
